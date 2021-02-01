@@ -1,4 +1,4 @@
-# MiWifiAppForMacEnglishVersion
+# MiWifi App For Mac English Version
 - It hard to download Mi Wifi app for mac if you're out site china this time, so I have uploaded it in zip file,
 - Download - unzip and put it to your Mac Applications Folder
 - About English Version just modify the language file inside App Package, this steep need to be done manualy step by step below 
